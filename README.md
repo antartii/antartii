@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/antartii/antartii/assets/36498078/85f7acbf-ca36-492e-828e-e74a901585a6">
+</div>
 
-<!--
-**antartii/antartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Antartii
+Can't dive in real life, but ready to dive into the weird abyss of coding ! (I'll probably sink)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notable projects
+📖 [**CJSON (lib C)**](https://github.com/antartii/C_JSONlib) : C lib for JSON data handlings  
+🪙 [**Randomizer extension**](https://github.com/antartii/randomizer_extension) : Browser extension that contains game based on luck
+
+## Tools I spent some times
+![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg)
+![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg)
+![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg)
+![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg)
+![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg)
+![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg)
+![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg)
+![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg)
+
+## Professional Contact
+Linkedin :  [tom-seng](https://www.linkedin.com/in/tom-seng/)  
+Mail :  tom.seng.anta@gmail.com
