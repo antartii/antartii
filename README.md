@@ -11,6 +11,10 @@ Can't dive in real life, but ready to dive into the weird abyss of coding ! (I'l
 📖 [**CJSON (lib C)**](https://github.com/antartii/C_JSONlib) : C lib for JSON data handlings  
 🪙 [**Randomizer extension**](https://github.com/antartii/randomizer_extension) : Browser extension that contains game based on luck
 
+<a href="https://github.com/Dawoox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antartii&show_icons=true&theme=material-palenight&?count_private=true&include_all_commits=true">
+</a>
+
 ## Tools I spent some times
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg)
 ![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg)
