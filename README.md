@@ -8,7 +8,7 @@
 Can't dive in real life, but ready to dive into the weird abyss of coding ! (I'll probably sink)
 
 ## Notable projects
-📗 [**UAT**](https://github.com/antartii/UAT) : Idea of a new type of file for storing data, including some libraries for different languages
+📗 [**UAT**](https://github.com/antartii/UAT) : Idea of a new type of file for storing data, including some libraries for different languages  
 📖 [**CJSON (lib C)**](https://github.com/antartii/C_JSONlib) : C lib for JSON data handlings  
 🪙 [**Randomizer extension**](https://github.com/antartii/randomizer_extension) : Browser extension that contains game based on luck
 
