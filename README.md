@@ -8,7 +8,7 @@
 Can't dive in real life, but ready to dive into the weird abyss of coding ! (I'll probably sink)
 
 ## Notable projects
-[**AntaGL**](https://github.com/antartii/AntaGL) : C library for a game engine using Vulkan and wayland
+[**AntaGL**](https://github.com/antartii/AntaGL) : C library for a game engine using Vulkan and wayland  
 📗 [**UAT**](https://github.com/antartii/UAT) : Idea of a new type of file for storing data, including some libraries for different languages  
 📖 [**CJSON (lib C)**](https://github.com/antartii/C_JSONlib) : C lib for JSON data handlings  
 🪙 [**Randomizer extension**](https://github.com/antartii/randomizer_extension) : Browser extension that contains game based on luck
@@ -30,7 +30,3 @@ Can't dive in real life, but ready to dive into the weird abyss of coding ! (I'l
 ## Professional Contact
 Linkedin :  [tom-seng](https://www.linkedin.com/in/tom-seng/)  
 Mail :  tom.seng.anta@gmail.com
-
-<p align="center"> 
-  Readme inspired by the personnal Readme file of <a href="https://github.com/0x307845">Dawoox</a>, go check his Github (he do cool things !)
-</p>
